@@ -1,3 +1,4 @@
+# 2. Dockerfile changed
 # Fix for problem
 
 ARG DOCKER_BASE
